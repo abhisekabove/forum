@@ -1,11 +1,11 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Jekyll Disqus Forum
+name: Test Forum
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Forum created in Disqus
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Daniel Klco
+author: Abhisek Mohanty
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
@@ -22,4 +22,4 @@ exclude: [.gitignore]
 disqus_shortname: jekylldisqusforum
 
 # The public key for your disqus application
-disqus_publickey: cVy9WcjLl6TI8EbBAL6PDy8FqMr4gm3HXXfERv7anOYHj3AZAyO2jD66Pqqe71B0
+disqus_publickey: 61bLGtaUogJZEUHgpQ38IfWlZ5NCvQJFFHK9uEnKs69NSW7Ft8Tvmsdo0d0Ei6CO
