@@ -19,7 +19,7 @@ url: http://klcodanr.github.io/Jekyll-Disqus-Forum
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: jekylldisqusforum
+disqus_shortname: mytest1234
 
 # The public key for your disqus application
 disqus_publickey: 61bLGtaUogJZEUHgpQ38IfWlZ5NCvQJFFHK9uEnKs69NSW7Ft8Tvmsdo0d0Ei6CO
